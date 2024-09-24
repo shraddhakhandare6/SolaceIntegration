@@ -1,0 +1,21 @@
+{
+  "name": "solace-code",
+  "version": "1.0.0",
+  "main": "sender.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+   
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ibmmq": "^2.1.0",
+    "mqtt": "^5.10.1",
+    "solclientjs": "^10.17.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
